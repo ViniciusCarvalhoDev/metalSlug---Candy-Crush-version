@@ -42,9 +42,9 @@ Execute os arquivos candyc.exe para um exemplo de jogo que pode ser implementado
 A versão clássica do jogo pode ser jogada em https://king.com/
 game/candycrush.
 
-Critérios de Avaliaçãao<br>
-Solução Apresentada<br>
+<strong>Critérios de Avaliaçãao</strong><br><br>
 Os seguintes itens serãoo avaliados:<br>
+
 <ul>
 <li>Controle preciso dos movimentos dos doces. (2 pontos);</li>
 <li>A matriz de doces deve ter dimensões superiores ou iguais a 9 linhas e 6
