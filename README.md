@@ -14,6 +14,7 @@ October 18, 2019 <br>
 October 18, 2019<br>
 
 <strong> Descrição do Problema</strong><br>
+<br>
 O objetivo deste trabalho é fazer com que o aluno utilize as técnicas de programação
 aprendidas na disciplina para desenvolver um jogo eletrôni
 semelhante ao Candy Crush. Nesse jogo, doces de diversos tipos são espalhados
@@ -43,7 +44,7 @@ A versão clássica do jogo pode ser jogada em https://king.com/
 game/candycrush.
 
 <strong>Critérios de Avaliaçãao</strong><br><br>
-Os seguintes itens serãoo avaliados:<br>
+Os seguintes itens serão avaliados:<br>
 
 <ul>
 <li>Controle preciso dos movimentos dos doces. (2 pontos);</li>
