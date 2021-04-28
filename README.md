@@ -7,12 +7,13 @@ Game desenvolvido na disciplina de programação e desenvolvimento de software 1
 Para fazer o game rodar é preciso apenas clicar no arquivo candyc.exe 
 <strong align="center">A resolução recomendada é 1920x1080 qualquer resolução abaixo irá causar distorções e mal funcionamento do jogo. Caso o jogo não rode você pode baixar a dll do allegro nesse link https://drive.google.com/file/d/1W8jWD-mWBhov07-qugFGPPkWAOGF5h0Z/view?usp=sharing</strong>
 
-Trabalho Prático - Candy Crush
-Pedro O.S. Vaz de Melo
-October 18, 2019
+Trabalho Prático - Candy Crush<br>
+Pedro O.S. Vaz de Melo <br>
+October 18, 2019 <br>
 
-October 18, 2019
-1 Descrição do Problema
+October 18, 2019<br>
+
+<strong> Descrição do Problema</strong><br>
 O objetivo deste trabalho é fazer com que o aluno utilize as técnicas de programação
 aprendidas na disciplina para desenvolver um jogo eletrôni
 semelhante ao Candy Crush. Nesse jogo, doces de diversos tipos são espalhados
@@ -40,3 +41,20 @@ recorde deve ser registrado. Este trabalho tem um valor total de 20 pontos.
 Execute os arquivos candyc.exe para um exemplo de jogo que pode ser implementado.
 A versão clássica do jogo pode ser jogada em https://king.com/
 game/candycrush.
+
+Critérios de Avaliaçãao<br>
+Solução Apresentada<br>
+Os seguintes itens serãoo avaliados:<br>
+<li> • Controle preciso dos movimentos dos doces. (2 pontos);</li>
+
+<li>• A matriz de doces deve ter dimensões superiores ou iguais a 9 linhas e 6
+colunas. (2 pontos);</li>
+<li>• A tela deve ser inteiramente preenchida com doces aleatórios, sem nenhuma sequência que vale pontos. (2 pontos);</li>
+<li>• O jogo deverá ter pelo menos um estágio em que apenas doces vizinhos poderão ser trocados de lugar. (1 pontos);</li>
+<li>• As sequências que valem ponto devem ser realçaadas antes de serem eliminadas. (2 pontos);</li>
+<li>• Enquanto sequências que valem ponto são eliminadas, o jogador não poderá realizar movimentos. 1 ponto;</li>
+<li>• O jogo deve ter pelo menos 4 tipos de doces. (2 ponto);</li>
+<li>• O cenário deve exibir o número de jogadas ainda disponíveis para o jogador (1 ponto);</li>
+<li>• O cenário deve exibir os pontos ganhos pelo jogador. (2 pontos);</li>
+<li>• Exibição e armazenamento do recorde (3 pontos); </li>
+<li>• Documentação (2 pontos) </li></ul>
