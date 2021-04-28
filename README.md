@@ -45,16 +45,16 @@ game/candycrush.
 Critérios de Avaliaçãao<br>
 Solução Apresentada<br>
 Os seguintes itens serãoo avaliados:<br>
-<li> • Controle preciso dos movimentos dos doces. (2 pontos);</li>
-
-<li>• A matriz de doces deve ter dimensões superiores ou iguais a 9 linhas e 6
+<ul>
+<li>Controle preciso dos movimentos dos doces. (2 pontos);</li>
+<li>A matriz de doces deve ter dimensões superiores ou iguais a 9 linhas e 6
 colunas. (2 pontos);</li>
-<li>• A tela deve ser inteiramente preenchida com doces aleatórios, sem nenhuma sequência que vale pontos. (2 pontos);</li>
-<li>• O jogo deverá ter pelo menos um estágio em que apenas doces vizinhos poderão ser trocados de lugar. (1 pontos);</li>
-<li>• As sequências que valem ponto devem ser realçaadas antes de serem eliminadas. (2 pontos);</li>
-<li>• Enquanto sequências que valem ponto são eliminadas, o jogador não poderá realizar movimentos. 1 ponto;</li>
-<li>• O jogo deve ter pelo menos 4 tipos de doces. (2 ponto);</li>
-<li>• O cenário deve exibir o número de jogadas ainda disponíveis para o jogador (1 ponto);</li>
-<li>• O cenário deve exibir os pontos ganhos pelo jogador. (2 pontos);</li>
-<li>• Exibição e armazenamento do recorde (3 pontos); </li>
-<li>• Documentação (2 pontos) </li></ul>
+<li>A tela deve ser inteiramente preenchida com doces aleatórios, sem nenhuma sequência que vale pontos. (2 pontos);</li>
+<li>O jogo deverá ter pelo menos um estágio em que apenas doces vizinhos poderão ser trocados de lugar. (1 pontos);</li>
+<li>As sequências que valem ponto devem ser realçaadas antes de serem eliminadas. (2 pontos);</li>
+<li>Enquanto sequências que valem ponto são eliminadas, o jogador não poderá realizar movimentos. 1 ponto;</li>
+<li>O jogo deve ter pelo menos 4 tipos de doces. (2 ponto);</li>
+<li>O cenário deve exibir o número de jogadas ainda disponíveis para o jogador (1 ponto);</li>
+<li>O cenário deve exibir os pontos ganhos pelo jogador. (2 pontos);</li>
+<li>Exibição e armazenamento do recorde (3 pontos); </li>
+<li>Documentação (2 pontos) </li></ul>
