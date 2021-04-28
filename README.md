@@ -4,6 +4,9 @@
 
 Game desenvolvido na disciplina de programação e desenvolvimento de software 1. Utilizando C (ISSO MESMO APENAS C) e a lib Allegro 5.
 
+Para fazer o game rodar é preciso apenas clicar no arquivo candyc.exe 
+<strong align="center">A resolução recomendada é 1920x1080 qualquer resolução abaixo irá causar distorções e mal funcionamento do jogo.</strong>
+
 Trabalho Prático - Candy Crush
 Pedro O.S. Vaz de Melo
 October 18, 2019
@@ -20,8 +23,8 @@ linhas quanto nas colunas da matriz. A movimentaçãoo dos doces é feita a part
 de trocas: o jogador clica no doce que quer movimentar e, mantendo o botão do
 mouse pressionado, arrasta o cursor para o doce alvo, ou seja, aquele que deve
 ser trocado de posição com o doce clicado inicialmente. Trocas só podem ser
-feitas com doces vizinhos. Doces vizinhos s~ao aqueles que est~ao imediatamente
-acima, abaixo, à direita ou à esquerda do doce alvo. Ao formar uma sequ^encia,
+feitas com doces vizinhos. Doces vizinhos ~sao aqueles que estão imediatamente
+acima, abaixo, à direita ou à esquerda do doce alvo. Ao formar uma sequência,
 os doces s~ao consumidos pelo jogador, gerando pontos para ele. O consumo
 imediato de n doces vale mais pontos que o consumo dos n doces em instantes
 separados. Exemplo: um movimento que consume 6 doces imediatamente vale
