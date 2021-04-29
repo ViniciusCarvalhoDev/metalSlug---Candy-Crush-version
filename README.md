@@ -59,3 +59,7 @@ colunas. (2 pontos);</li>
 <li>O cenário deve exibir os pontos ganhos pelo jogador. (2 pontos);</li>
 <li>Exibição e armazenamento do recorde (3 pontos); </li>
 <li>Documentação (2 pontos) </li></ul>
+
+Print do resutado final:<br>
+
+![banner](https://user-images.githubusercontent.com/51410946/116624959-37317300-a91f-11eb-9380-4d79512990f3.png)
