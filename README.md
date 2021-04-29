@@ -63,3 +63,5 @@ colunas. (2 pontos);</li>
 Print do resutado final:<br>
 
 ![banner](https://user-images.githubusercontent.com/51410946/116624959-37317300-a91f-11eb-9380-4d79512990f3.png)
+
+Link para a gameplay no YouTube: https://youtu.be/zbTxiz2RMxU
